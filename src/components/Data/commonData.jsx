@@ -276,14 +276,14 @@ export const commonData = {
             price : "$120.00",
             actualprice : "$170.00"
         },
-        {
-            name : "Air WildWood ASG",
-            image: '/images/f-5.jpg',
-            label : "-50%",
-            star : "4",
-            price : "$75.00",
-            actualprice : "$150.00",
-        },
+        // {
+        //     name : "Air WildWood ASG",
+        //     image: '/images/f-5.jpg',
+        //     label : "-50%",
+        //     star : "4",
+        //     price : "$75.00",
+        //     actualprice : "$150.00",
+        // },
     ],
 
     brandings : [
